@@ -86,6 +86,6 @@ I’m particularly interested in system observability, middleware architectures,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenmartinezsiso&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top languages" />
-  <img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=rubenmartinezsiso&theme=dark" alt="GitHub streak" />
+  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenmartinezsiso&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top languages" />
+  <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=rubenmartinezsiso&theme=dark" alt="GitHub streak" />
 </p>
