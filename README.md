@@ -1,11 +1,11 @@
 ## Hi 👋, I'm Rubén
 <!-- <img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRweWRyZGZmbHJrYTJ2dnFna3B1YjYxMjZ6OXV5cTFnazVtc2o5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rz9wM2XlX2eP2Zm3HY/giphy.gif" /> -->
 <!-- <ul> -->
+<h3 style="margin: 5px 0; border-bottom: none !important;">💻 Software Engineer</h3>
+<h3 style="margin: 5px 0 !important; border-bottom: none !important;">🎓 Master's Degree in Computer Science</h3>
 <h3 style="margin: 5px 0 !important; font-size: 26px; border-bottom: none !important;">
   💼 <a href="https://www.linkedin.com/in/rubenmartinezsiso" target="_blank" style="text-decoration: none; color: inherit;">LinkedIn</a>
 </h3>
-<h3 style="margin: 5px 0; border-bottom: none !important;">💻 Software Engineer</h3>
-<h3 style="margin: 5px 0 !important; border-bottom: none !important;">🎓 Master's Degree in Computer Science</h3>
 <!--  <li><h3 style="margin: 5px 0; border-bottom: none !important;">🎨 Software Artist</h3></li> -->
 <!-- </ul> -->
 <!-- <br><br> -->
