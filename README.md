@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Rubén
 <!-- <img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRweWRyZGZmbHJrYTJ2dnFna3B1YjYxMjZ6OXV5cTFnazVtc2o5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Rz9wM2XlX2eP2Zm3HY/giphy.gif" /> -->
 <!-- <ul> -->
-  <li><h3 style="margin: 5px 0; border-bottom: none !important;">💻 Software Engineer</h3></li>
-  <li><h3 style="margin: 5px 0 !important; border-bottom: none !important;">🎓 Master's degree in Informatics Engineering</h3></li>
-  <li><h3 style="margin: 5px 0; border-bottom: none !important;">🏫 University of Lleida, Spain</h3></li>
+  <h3 style="margin: 5px 0; border-bottom: none !important;">💻 Software Engineer</h3>
+  <h3 style="margin: 5px 0 !important; border-bottom: none !important;">🎓 Master's degree in Informatics Engineering</h3>
+  
   <!--  <li><h3 style="margin: 5px 0; border-bottom: none !important;">🎨 Software Artist</h3></li> -->
 <!-- </ul> -->
 <!-- <br><br> --> <br>
