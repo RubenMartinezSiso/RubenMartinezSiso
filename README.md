@@ -8,13 +8,6 @@
 </ul>
 <br><br><br>
 
-## 👨‍💻 About Me
-
-I’m a curious and driven software engineer with a passion for building robust, elegant, and meaningful solutions—both on the web and embedded systems. I thrive when working on end-to-end projects that involve planning, development, and visual storytelling through UI. Whether it's designing APIs, creating efficient backend logic, or polishing intuitive frontends, I enjoy being part of every layer of development.
-
-I’m particularly interested in system observability, middleware architectures, automation, and developer tooling. I'm also passionate about crafting user experiences that are not only functional, but enjoyable.
-<br><br>
-
 ## 🛠️ Some of My Languages & Tools
 
 <p align="center">
