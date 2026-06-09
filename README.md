@@ -6,7 +6,7 @@
   <li><h3 style="margin: 5px 0; border-bottom: none !important;">🏫 University of Lleida, Spain</h3></li>
   <!--  <li><h3 style="margin: 5px 0; border-bottom: none !important;">🎨 Software Artist</h3></li> -->
 </ul>
-<br><br><br>
+<!-- <br><br> --> <br>
 
 <!-- ## 🛠️ Some of My Languages & Tools
 
