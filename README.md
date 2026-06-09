@@ -8,7 +8,7 @@
 </ul>
 <br><br><br>
 
-## 🛠️ Some of My Languages & Tools
+<!-- ## 🛠️ Some of My Languages & Tools
 
 <p align="center">
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -74,11 +74,10 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
 </a>
 </p>
-<br>
+<br> -->
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=rubenmartinezsiso&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Top languages" />
+  <img width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubenmartinezsiso&theme=transparent" alt="Top languages" />
   <img width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=rubenmartinezsiso&theme=dark" alt="GitHub streak" />
 </p>
